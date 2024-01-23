@@ -1,0 +1,80 @@
+{
+  "tasks": [
+    {
+      "id": "bcb92150-39cd-49ec-92c5-41960d8d227b",
+      "text": "27-12-2023 Orientasi dan Belajar HTML"
+    },
+    {
+      "id": "25b41d42-0fd4-4f06-802b-70e86adbbc8d",
+      "text": "28-12-2023 Belajar HTML,CSS, dan Membuat Simple Project"
+    },
+    {
+      "id": "bd97f68a-b7cf-41a0-8015-4d4f0b932d4b",
+      "text": "29-12-2023 Belajar HTML,CSS, dan JavaScript"
+    },
+    {
+      "id": "cb36d0e6-9ab2-4c72-bf86-efcf2c5aab9b",
+      "text": "02-01-2024 Belajar Gitlab, Github, dan Gitbash"
+    },
+    {
+      "id": "daf49831-57e5-4591-872b-f85b81a54d8d",
+      "text": "03-01-2024 Membahas Struktur Folder Project"
+    },
+    {
+      "id": "022e4765-a642-452b-847f-2686f45bb430",
+      "text": "04-01-2024 Belajar JavaScript dan ReactJS"
+    },
+    {
+      "id": "61b33ef5-c82d-4cf5-bcfd-33e9c6affa05",
+      "text": "05-01-2024 Belajar Enhance/Improve Freature Print dan Download"
+    },
+    {
+      "id": "af60bec6-e9d5-41c5-af81-638dbf478426",
+      "text": "08-01-2024 Membuat Single Project Menggunakan API Eksternal "
+    },
+    {
+      "id": "aef4ce37-829f-4e67-8cde-1ac3e49eb033",
+      "text": "09-01-2024 Self Learning At Home"
+    },
+    {
+      "id": "feaea05f-ff2e-4c98-a746-46390cde4bc4",
+      "text": "10-01-2024 Self Learning At Home"
+    },
+    {
+      "id": "83bae30b-cb30-4655-aec9-14be624a819b",
+      "text": "11-01-2024 Membuat Single Project Menggunakan ReactJS dan Bootstrapt"
+    },
+    {
+      "id": "c4fbbd99-6003-4ae8-8e81-23cd8eed0dc9",
+      "text": "12-01-2024 Belajar TailwindCSS dan Mempraktikkannya"
+    },
+    {
+      "id": "c4a0a07e-7207-4334-a208-f92b908eef5a",
+      "text": "15-01-2024 Belajar TailwindCSS dan Membuat Website Portofolio Menggunakan TailwindCSS"
+    },
+    {
+      "id": "ca52e09c-db6b-43ee-898d-379672d2b732",
+      "text": "16-01-2024 Belajar Mempraktikkan NextJS, ReactJS, dan TailwindCSS"
+    },
+    {
+      "id": "8ca10c71-69f9-4264-8b5b-2851f3d1964a",
+      "text": "17-01-2024 Build and Deploy a Fully Responsive Modern UI/UX Website"
+    },
+    {
+      "id": "aabbf031-a457-4651-a974-619ad409fc67",
+      "text": "18-01-2024 Build and Deploy a Fully Responsive Modern UI/UX Website"
+    },
+    {
+      "id": "1d117558-8bc5-45a5-af55-dc83a3d34a78",
+      "text": "19-01-2024 Learn CRUD Operation and TailwindCSS UI"
+    },
+    {
+      "id": "60db0b7b-c366-42b2-84b0-4eef9c9c2381",
+      "text": "22-01-2024 Learn CRUD Operation and TailwindCSS UI"
+    },
+    {
+      "id": "acfba4e3-9912-4a64-a9ea-d08cee7c3029",
+      "text": "23-01-2024 Belajar TailwindCSS dan Membuat Website Portofolio Menggunakan TailwindCSS"
+    }
+  ]
+}
